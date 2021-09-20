@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 <video width="320" height="240" controls>
-  <source src="remove.mp4" type="video/mp4">
+  <source src="s.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
